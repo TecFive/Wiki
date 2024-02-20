@@ -16,3 +16,6 @@ Innovación y soluciones a tu alcance
 * Utilizar el branch hasta completar el trabajo para no interferir con el trabajo de otros
 * Al finalizar el trabajo, hacer un pull request para integrarlo a main
 * Borrar la branch
+
+# Repo de trabajo
+* [https://github.com/TecFive/DREAM-Lab](Aquí)
