@@ -19,3 +19,6 @@ Innovación y soluciones a tu alcance
 
 # Repo de trabajo
 * [Aquí](https://github.com/TecFive/DREAM-Lab)
+
+# Documento de diseño del sistema
+* [Aquí](https://docs.google.com/document/d/1hbnX9evKYIglci6RCuS1M_4XSNoFJMvksgWniFUpt1s/edit?usp=sharing)
